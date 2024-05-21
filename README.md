@@ -1,4 +1,4 @@
-# Decentralised Identities and it's Relevance in Africa
+# Decentralised Identities and its Relevance in Africa
 
 ## Introduction
 
